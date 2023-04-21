@@ -1,0 +1,15 @@
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.csproj.AssemblyReference.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.AssemblyInfoInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.AssemblyInfo.cs
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.csproj.CoreCompileInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/bin/Debug/net6.0/Giri
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/bin/Debug/net6.0/Giri.deps.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/bin/Debug/net6.0/Giri.runtimeconfig.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/bin/Debug/net6.0/Giri.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/bin/Debug/net6.0/Giri.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/refint/Giri.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/Giri.genruntimeconfig.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/Giri/obj/Debug/net6.0/ref/Giri.dll
