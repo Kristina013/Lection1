@@ -1,0 +1,15 @@
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/bin/Debug/net6.0/Lection_1
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/bin/Debug/net6.0/Lection_1.deps.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/bin/Debug/net6.0/Lection_1.runtimeconfig.json
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/bin/Debug/net6.0/Lection_1.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/bin/Debug/net6.0/Lection_1.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.csproj.AssemblyReference.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.AssemblyInfoInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.AssemblyInfo.cs
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.csproj.CoreCompileInputs.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/refint/Lection_1.dll
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.pdb
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/Lection_1.genruntimeconfig.cache
+/Users/ivanovakris13/Desktop/ GeekBrains/С#/Lection1/Lection_1/obj/Debug/net6.0/ref/Lection_1.dll
